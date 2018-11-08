@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 4d17f1258ef66294abe91d04cc8ce32c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Talented Ball
+    21300002: Body
+    21300004: Right Eye
+    21300006: Right Eye White
+    21300008: Left Eye
+    21300010: Left Ey White
+    21300012: Right Hand
+    21300014: Right Foot
+    21300016: Left Foot
+    21300018: Left Hand
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 439
+        width: 507
+        height: 505
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Eye
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 839
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Eye White
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 879
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Eye
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 655
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Ey White
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 704
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Hand
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 358
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right Foot
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 141
+        width: 221
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Foot
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 149
+        width: 208
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left Hand
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 149
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
